@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Liverys And Uniforms</title>
+	</head>
+	<body>
+		<div class="welcome-top">
+    👮 Bienvenido a la pagina de Liverys y Uniformes de Ecuador Roleplay 🚓
+</div>
+		<nav id="menuPrincipal">
+			<a href="#Liverys">Liverys Policia</a>
+			<a href="#Uniforms">Uniformes Policiales</a>
+			<a href="#livery2">Liverys Militares</a>
+			<a href="#Uniforms2">Uniformes Militares</a>
+		</nav>
+
+		<strong id="Liverys">Estas son las liverys con las que contamos</strong>
+
+		<div class="galeria">
+
+    <img src="https://i.postimg.cc/9fWNtnFc/Coche_1_EC.png">
+    <img src="https://i.postimg.cc/FR6WvFbd/Coche_2_EC.png">
+    
+	<img src="https://i.postimg.cc/grFgwMTz/Camioneta_A1_EC.png">
+	<img src="https://i.postimg.cc/T2zxqT85/Camioneta_A2_EC.png">
+	<img src="https://i.postimg.cc/zG516pXd/Camioneta_A3_EC.png">
+	
+	<img src="https://i.postimg.cc/QMdZxt7B/Camioneta_4_EC.png">
+	<img src="https://i.postimg.cc/jj30WbQV/Camioneta_41_EC.png">
+	<img src="https://i.postimg.cc/SKv3SGkz/Camioneta_42_EC.png" class="respira">
+
+<strong id="livery2">Liverys Militares</strong>
+
+		</div>
+		<div class="militar">
+
+    <img src="https://i.postimg.cc/jqyTcCz1/Ejercito_1.png">
+    <img src="https://i.postimg.cc/dVVKJBzt/Ejercito_2.png">
+   
+    <img src="https://i.postimg.cc/W4DLk4NK/Ejercito_4x4.png">
+    <img src="https://i.postimg.cc/RFfkgbn6/Ejercito_4x4_2.png">
+    
+	<img src="https://i.postimg.cc/x83W2JR4/Ejercito_T1.png">
+    <img src="https://i.postimg.cc/zDwmW6rF/Ejercito_T2.png">
+	<img src="https://i.postimg.cc/VLzxFgss/Ejercito_T3.png">
+
+		</div>
+
+	<strong id="Uniforms">Estos son algunos de los uniformes que tenemos disponibles en la policia</strong>
+
+<div class="uniformes-especiales">
+
+	<img src="https://i.postimg.cc/nLtVp7Y4/PNE.png">
+	<img src="https://i.postimg.cc/jjQx55Zg/pne2.png">
+	
+	<strong id="special-police">Estos son los uniformes para las fuerzas especiales de la policia</strong>
+	
+	<img src="https://i.postimg.cc/DwGf95G9/GOE.png">
+	<img src="https://i.postimg.cc/43T4stby/GOE_2.png">
+
+</div>
+
+<div>
+	
+	<strong id="Uniforms2">Estos son los uniformes disponibles para los militares</strong>
+	
+	<img class="unificada" src="https://i.postimg.cc/7Zc4Zz35/Edicion_hecha.jpg">
+
+</div>
+
+		
+	</body>
+</html>
